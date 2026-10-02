@@ -29,6 +29,10 @@ Data Analytics Specialist with 3+ years of experience delivering analytics and B
 You can reach out to me on LinkedIn for collaboration and discussions:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/waseemalqawasmi/)
+- <a href="https://www.linkedin.com/in/waseemalqawasmi/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn"/>
+</a>
+
 
 ---
 
