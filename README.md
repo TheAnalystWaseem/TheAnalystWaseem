@@ -4,6 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/TheAnalystWaseem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/waseemalqawasmi/)
+<a href="https://www.linkedin.com/in/waseemalqawasmi/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 ## 📊 Data Analyst | 🔬 Data Scientist
