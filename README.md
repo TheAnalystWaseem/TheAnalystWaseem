@@ -3,7 +3,7 @@
 <h1 align="center"> Waseem AlQawasmi 
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/TheAnalystWaseem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/waseemalqawasmi/)
+<a href="https://github.com/TheAnalystWaseem"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/waseemalqawasmi/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
