@@ -44,7 +44,8 @@ You can reach out to me on LinkedIn for collaboration and discussions:
 
 ## 🌟 Visitors
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=TheAnalystWaseem)
+![Profile Views](https://komarev.com/ghpvc/?username=TheAnalystWaseem&color=0e75b6&style=flat-square)
+
 
 ---
 
