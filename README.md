@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**TheAnalystWaseem/TheAnalystWaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Waseem AlQawasmi 
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/TheAnalystWaseem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/waseemalqawasmi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 Data Analyst | 🔬 Data Scientist
+
+Data Analytics Specialist with 3+ years of experience delivering analytics and BI solutions for government entities and leading institutions. I work with complex data and turn it into clear insights that help teams improve performance and make better decisions. I've built interactive dashboards, automated reporting processes, and applied predictive analysis to support operational and strategic goals. 
+
+### 🔍 Focus Areas:
+* **Data Visualization:** Creating dashboards to help stakeholders make better decisions.
+* **Exploratory Data Analysis (EDA):** Running statistical queries and using tools like SQL, Excel, or Python to spot immediate patterns, trends, and anomalies.
+* **Data Science:** Build Machine Learning models to find patterns to make predictions, classify information, or solve complex problems.
+
+### 🛠️ Technical Toolkit:
+* **Data Visualization:** PowerBI, Tableau.
+* **Languages:** Python, SQL, Alteryx.
+* **Cloud & Big Data:** Databricks, AWS, Azure 
+* **Concepts:** Data Analysis, Data Cleaning, Data Preprocessing, Data Manipulation, Data Validation, Data Science, Machine Learning, Predictive Analysis, Data Visualization.
+---
+## 🔬 Projects
+- Under Construction... 🚧👷‍♂️
+  
+## 📣 Let's Connect
+
+You can reach out to me on LinkedIn for collaboration and discussions:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/waseemalqawasmi/)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAnalystWaseem&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnalystWaseem&layout=compact)
+
+---
+
+## 🌟 Visitors
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=TheAnalystWaseem)
+
+---
+
+```markdown
