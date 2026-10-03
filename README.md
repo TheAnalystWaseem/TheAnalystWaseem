@@ -16,12 +16,12 @@ Data Analytics Specialist with 3+ years of experience delivering analytics and B
 * **Data Science:** Build Machine Learning models to find patterns to make predictions, classify information, or solve complex problems.
 
 ### 🛠️ Technical Toolkit:
-* **Data Visualization:** PowerBI, Tableau.
+* **Data Visualization:** PowerBI, Tableau. ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 * **Languages:** Python, SQL, Alteryx.
 * **Cloud & Big Data:** Databricks, AWS, Azure 
 * **Concepts:** Data Analysis, Data Cleaning, Data Preprocessing, Data Manipulation, Data Validation, Data Science, Machine Learning, Predictive Analysis, Data Visualization.
-* ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+* 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0F6B99?style=for-the-badge&logo=alteryx&logoColor=white)
