@@ -17,7 +17,7 @@ Data Analytics Specialist with 3+ years of experience delivering analytics and B
 
 ### 🛠️ Technical Toolkit:
 * **Data Visualization:**
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  n\![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 * **Languages & Analytics:**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-0F6B99?style=for-the-badge&logo=alteryx&logoColor=white)
 * **Cloud & Big Data:**
