@@ -20,11 +20,11 @@ Data Analytics Specialist with 3+ years of experience delivering analytics and B
 **📊 Data Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1F447E?style=for-the-badge&logo=tableau&logoColor=E97627)
 
 **👨‍💻 Languages & Analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0F6B99?style=for-the-badge&logo=alteryx&logoColor=white)
 
