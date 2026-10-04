@@ -44,7 +44,7 @@ Data Analysis · Data Cleaning · Data Preprocessing · Data Manipulation · Dat
 
 🚧 **Under Construction...** 👷‍♂️
 
-More projects and case studies coming soon.
+More projects coming soon.
 
 ---
 
